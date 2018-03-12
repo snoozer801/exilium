@@ -1,5 +1,3 @@
-# See http://help.github.com/ignore-files/ for more about ignoring files.
-
 # compiled output
 /dist
 /dist-server
@@ -35,6 +33,7 @@ yarn-error.log
 testem.log
 /typings
 
+
 # e2e
 /e2e/*.js
 /e2e/*.map
@@ -42,3 +41,14 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+.authorized_keys.swp
+.bash_history
+.bashrc
+.dotnet/
+.lesshst
+.nuget/
+.profile
+.rpmdb/
+.ssh/
+.viminfo
+.wget-hsts
